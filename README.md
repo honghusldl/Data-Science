@@ -1,1 +1,1 @@
-# learning-pathway
+# learning
