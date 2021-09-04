@@ -1,1 +1,1 @@
-# learning
+# learning materials and projects
