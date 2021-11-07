@@ -1,0 +1,11 @@
+File: Data - Survey Monkey Output
+	Sheet: questions
+1. Copy and transpose paste first two headers
+
+2. To fill up blank cells, select the Column A, use GO TO SPECIAL function to select all blank cells, type "=" and up arrow key, then ctrl Enter.
+
+3. Create a new column called "question_subquestion". Use concat function to concatenate column A and B. Copy and paste values only.
+
+4. Create a new sheet called "edited_data". Transpose concatenated column and copy and paste all data from first sheet.
+
+5. Manipulate data via data_manipulation.ipynb
