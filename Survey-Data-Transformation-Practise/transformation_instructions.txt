@@ -1,5 +1,10 @@
 File: Data - Survey Monkey Output
 Sheet: questions
+Client requirement: 
+  1.Number of respondent for each question; 
+  2.Number of respondent for each subquestion with the same response
+
+Data manipulation process: 
 1. Copy and transpose paste first two headers
 
 2. To fill up blank cells, select the Column A, use GO TO SPECIAL function to select all blank cells, type "=" and up arrow key, then ctrl Enter.
