@@ -1,1 +1,8 @@
 pandas
+numpy
+matplotlib
+seaborn
+plotly
+mlxtend
+sklearn
+xgboost
